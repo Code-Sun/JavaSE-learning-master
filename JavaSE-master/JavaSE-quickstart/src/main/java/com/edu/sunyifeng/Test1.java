@@ -5,9 +5,11 @@ package com.edu.sunyifeng;
  * @Date: 2020/05/27/23:44
  * @Description:
  */
-public class Test{
+public class Test1{
 
     public static void main(String[] args) {
+
+        System.out.println();
 
     }
 }
