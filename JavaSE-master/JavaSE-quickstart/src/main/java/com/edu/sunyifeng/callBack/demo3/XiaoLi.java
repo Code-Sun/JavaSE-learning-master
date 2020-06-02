@@ -2,6 +2,7 @@ package com.edu.sunyifeng.callBack.demo3;
 
 public class XiaoLi {
 
+    // 这里声明接口是为了在接口里使用它
     protected EatRice er;
 
     public void setEatRiceListener(EatRice er, String food) {
